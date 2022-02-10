@@ -1,0 +1,7 @@
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\obj\Debug\Chicken.csproj.AssemblyReference.cache
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\obj\Debug\Chicken.csproj.CoreCompileInputs.cache
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\bin\Debug\Chicken.exe.config
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\bin\Debug\Chicken.exe
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\bin\Debug\Chicken.pdb
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\obj\Debug\Chicken.exe
+C:\Users\AhnGhie\Documents\csharp_exercise\CSharpExercise\Chicken\obj\Debug\Chicken.pdb
